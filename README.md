@@ -1,2 +1,1 @@
-# cla-122
-pkosdakopsapkodsapkoasd
+# PRO-C122-Plantilla-del-código-para-el-alumno
